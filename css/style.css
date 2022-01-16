@@ -12,7 +12,8 @@ nav a{
     text-decoration: none;
     color: white;
     display: inline-block;
-    padding: 12px 15px;
+   
+    padding: 13px 16px;
 }
 
 nav a:hover{
@@ -218,6 +219,23 @@ main #rightside #sec1 .sectioncontent p:nth-child(2){
     padding: 10px;
 
 }  
+
+main #rightside .art{
+margin: 15px 0px;
+}
+
+main #rightside .art h2
+{
+background-color: black;
+padding: 20px;
+color: white;
+text-align: center;
+}
+main #rightside .artcontent{
+    padding: 20px;
+    background-color: white;
+}
+
 /*footer*/
 footer{
     background-color: #616161;
